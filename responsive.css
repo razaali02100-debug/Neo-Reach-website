@@ -299,7 +299,7 @@
     .home-behind-content{
     margin-top: 363px;
     height: auto;
-    width: 207%;
+    width: 274%;
     overflow: hidden;
     animation: slide-left infinite 11s linear;
     animation-fill-mode: forwards;
@@ -375,6 +375,7 @@ to{
         height:56rem;
         /* background-color: #8d1b1b; */
         position: relative;
+        margin-top: 29px;
       
     }
     .coloumn-right-img img{
@@ -674,7 +675,7 @@ to{
 }
 
 .base{
-    width: 98%;
+    width: 525px;
     position: relative;
     top: 14%;
 

@@ -2022,6 +2022,7 @@ margin-top: 45px;
     border: 2px solid black;
     box-shadow: 7px 5px 0px rgb(129, 248, 236);
     cursor: pointer;
+    margin-top: 16px;
 }
 .inner-form{
     display: flex;    
@@ -2463,6 +2464,7 @@ text-align: center;
 .footer-social-links{
     /* background-color: #75DFFC; */
     padding-top: 22px;
+    padding-bottom: 16px;
    
 }
 .footer-social-links ul{
@@ -2488,7 +2490,7 @@ text-align: center;
     position: relative;
     padding: 7px 0px;
     transition: background-color 0.5s ease-in-out;
-    
+    margin-right: 11px;
 }
 .footer-social-links li:hover{
     background-color: #000;
